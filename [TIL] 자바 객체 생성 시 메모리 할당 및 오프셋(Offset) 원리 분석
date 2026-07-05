@@ -1,4 +1,4 @@
-### 📍 자바 객체 선언
+📍 자바 객체 선언
 
 Student student = new Student();
 student.name = "이유진";
@@ -52,7 +52,7 @@ student.grade = 100;
 
 
 
-### 📍 자바 객체 배열 선언  
+📍 자바 객체 배열 선언  
 
 Student student1 = new Student();
 student1.name = "이유진";
