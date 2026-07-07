@@ -8,7 +8,7 @@
 <br/><br/>
 
 ## 👉 문제 & 코드 
-[실행 결과 예시]
+### [실행 결과 예시]
 
 ```text
 입력할 주문의 개수를 입력하세요: 3
@@ -30,7 +30,8 @@
 총 결제 금액: 12000
 ```
 <br/>
-[내 풀이]
+
+### [내 풀이]
 
 ```java
 public class ProductOrderMain3 {
@@ -61,7 +62,8 @@ public class ProductOrderMain3 {
 }
 ```
 <br/>
-[강의 자료 풀이]
+
+### [강의 자료 풀이]
 
 ```java
 public class ProductOrderMain3 {
